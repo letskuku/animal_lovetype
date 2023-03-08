@@ -9,3 +9,9 @@
 
 3. 결과 화면
 <img src="https://user-images.githubusercontent.com/90572599/221661045-50b2fc70-7a6c-4026-822d-6e3986a6e9f4.jpg" width="30%">
+
+4. 카카오톡에 결과 공유
+<img src="https://user-images.githubusercontent.com/90572599/223649283-0579176e-4f72-4aa3-a4b8-fd60e29fa83a.jpg" width="30%">
+
+5. 결과 공유하기 클릭 후 나타나는 화면
+<img src="https://user-images.githubusercontent.com/90572599/223649485-6f305247-979d-4a14-a838-66b3e9ee4385.jpg" width="30%">
